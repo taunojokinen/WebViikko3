@@ -72,6 +72,11 @@ footer ul {
     margin: 20px auto;
 }
 
+footer div {
+    width: 150px;
+    margin: 20px auto;
+}
+
 i {
     color: #fff;
     margin-left: 10px;
